@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TerminalTools.CAF/TerminalTools.CAF.csproj" />
+  <Project Path="TerminalTools.Core.Abstraction/TerminalTools.Core.Abstraction.csproj" Id="1f081480-7124-4d03-a6af-cef23e1d0744" />
+  <Project Path="TerminalTools.Core/TerminalTools.Core.csproj" Id="422b8f85-7ed4-4e6a-8e95-27c2ee5d9436" />
+</Solution>
